@@ -1,3 +1,6 @@
+# Deprecated
+This project has been moved to [@skuyjs/http-server](https://github.com/skuyjs/http-server)
+
 # @hamjs/http-server
 Mini http server framework for NodeJS
 
